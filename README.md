@@ -15,7 +15,7 @@
 
 ## 📊 Proyectos Destacados
 🔎 **Interpretabilidad de Scoring Crediticio**  
-[Repositorio]([portafolio_personal/01_Interpretabilidad_de_scoring_crediticio](https://github.com/jaravena88/portafolio_personal/tree/main/01_Interpretabilidad_de_scoring_crediticio)) – Modelos de clasificación con SHAP y LIME aplicados a riesgo crediticio.  
+[🔗 Ver proyecto](https://github.com/jaravena88/portafolio_personal/tree/main/01_Interpretabilidad_de_scoring_crediticio) – Modelos de clasificación con SHAP y LIME aplicados a riesgo crediticio.  
 
 ✈️ **Predicción de Precios de Vuelos**  
 [Repositorio](portafolio_personal/02_Prediccion_de_precios_de_vuelos) – Modelos de regresión y optimización de hiperparámetros para estimar precios de vuelos.  
@@ -43,6 +43,7 @@
 
 
 ✨ *“Los datos por sí solos no generan valor, pero con la ingeniería, la ciencia de datos y la inteligencia artificial, podemos transformarlos en decisiones inteligentes.”* 
+
 
 
 
