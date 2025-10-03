@@ -15,13 +15,13 @@
 
 ## 📊 Proyectos Destacados
 🔎 **Interpretabilidad de Scoring Crediticio**  
-[🔗 Ver proyecto](https://github.com/jaravena88/portafolio_personal/tree/main/01_Interpretabilidad_de_scoring_crediticio) – Modelos de clasificación con SHAP y LIME aplicados a riesgo crediticio.  
+🔗 [Ver proyecto](https://github.com/jaravena88/portafolio_personal/tree/main/01_Interpretabilidad_de_scoring_crediticio) – Modelos de clasificación con SHAP y LIME aplicados a riesgo crediticio.  
 
 ✈️ **Predicción de Precios de Vuelos**  
-[Repositorio](portafolio_personal/02_Prediccion_de_precios_de_vuelos) – Modelos de regresión y optimización de hiperparámetros para estimar precios de vuelos.  
+🔗 [Ver proyecto](https://github.com/jaravena88/portafolio_personal/tree/main/02_Prediccion_de_precios_de_vuelos) – Modelos de regresión y optimización de hiperparámetros para estimar precios de vuelos.  
 
 🤖 **Scoring Crediticio con Redes Neuronales Profundas**  
-[Repositorio](portafolio_personal/03_Scoring_crediticio_con_RN_profundas) – Clasificación de riesgo financiero con arquitecturas de Deep Learning.  
+🔗 [Ver proyecto](https://github.com/jaravena88/portafolio_personal/tree/main/03_Scoring_crediticio_con_RN_profundas) – Clasificación de riesgo financiero con arquitecturas de Deep Learning.  
 
 ---
 
@@ -43,6 +43,7 @@
 
 
 ✨ *“Los datos por sí solos no generan valor, pero con la ingeniería, la ciencia de datos y la inteligencia artificial, podemos transformarlos en decisiones inteligentes.”* 
+
 
 
 
