@@ -1,7 +1,6 @@
 # 👋 Hola, soy José Aravena  
 
-💡 **Ingeniero en Control e Instrumentación** con más de 12 años de experiencia en proyectos eléctricos, automatización de procesos industriales y control de plantas de tratamiento de aguas.  
-En los últimos años he complementado mi trayectoria con formación en **Ciencia de Datos, Machine Learning y Deep Learning**, integrando mi experiencia en ingeniería con el mundo del análisis de datos y la inteligencia artificial.
+💡 **Ingeniero en Control e Instrumentación** con más de 12 años de experiencia en proyectos eléctricos, automatización de procesos industriales y control de plantas de tratamiento de aguas. En los últimos años he complementado mi trayectoria con formación en **Ciencia de Datos, Machine Learning y Deep Learning**, integrando mi experiencia en ingeniería con el mundo del análisis de datos y la inteligencia artificial.
 
 ---
 
@@ -41,5 +40,6 @@ En los últimos años he complementado mi trayectoria con formación en **Cienci
 - 🐙 GitHub: [github.com/jaravena](https://github.com/jaravena88)  
 
 ---
+
 
 ✨ *“Los datos por sí solos no generan valor, pero con la ingeniería, la ciencia de datos y la inteligencia artificial, podemos transformarlos en decisiones inteligentes.”* 
